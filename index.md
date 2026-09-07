@@ -1,12 +1,11 @@
 ---
-
 layout: col-sidebar
 title: OWASP Madrid
 tags: madrid
 region: Europe
 country: Spain
 meetup-group: owasp-madrid
---------------------------
+---
 
 ## Bienvenida
 
