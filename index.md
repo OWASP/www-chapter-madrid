@@ -6,21 +6,51 @@ tags: madrid
 region: Europe
 country: Spain
 meetup-group: owasp-madrid
----
+--------------------------
 
 ## Bienvenida
 
-Bienvenid@s al capítulo de OWASP Madrid. Nuestra intención es realizar pequeños eventos y reuniones informales de manera frecuente, en las que poder compartir temas e ideas interesantes.
+OWASP Madrid es el capítulo de OWASP en Madrid. Somos una comunidad abierta de profesionales, estudiantes, investigadores y personas interesadas en la ciberseguridad.
 
-## Colaboración y participación
+Nuestro objetivo es crear un espacio técnico y colaborativo donde compartir conocimiento, aprender y generar actividades útiles para la comunidad de seguridad del software.
 
-Los eventos y proyectos que se llevarán a cabo serán públicos y gratuitos. **Cualquier persona** puede participar. Si tienes una buena idea, y te apetece compartirla, haremos todo lo que esté en nuestra mano para tratar de llevarla a cabo. 
+## Qué hacemos
 
-## Cómo apoyar al OWASP Madrid 
+Organizamos charlas, talleres, CTFs, demostraciones técnicas y otras actividades prácticas relacionadas con la seguridad del software y los proyectos OWASP.
 
-**Ponentes**: Estamos continuamente buscando nuevos ponentes.  
-**Presentations:** ¿Estás trabajando en un tema interesante, le gustaría compartir tu experiencia con la comunidad OWASP? ¡Escríbenos, cualquier tema relacionado con la seguridad será bienvenido!  
-**Links:** La plantilla para ponentes interesados en presentar en una reunión de capítulo, envíe un correo electrónico a: madrid 'at' owasp.org  
+También queremos impulsar contenidos relacionados con desarrollo seguro de software, DevSecOps, Threat Modeling y seguridad en entornos industriales e IoT, así como actividades dirigidas a estudiantes y nuevos profesionales.
+
+Buscamos que las actividades nazcan también de propuestas de la propia comunidad y tengan un contenido técnico o práctico útil para los asistentes.
+
+## Participa
+
+Puedes asistir a nuestras actividades, colaborar como voluntario o participar en proyectos e iniciativas de la comunidad.
+
+No es necesario ser miembro de OWASP para participar en las reuniones del capítulo.
+
+### ¿Quieres dar una charla?
+
+Estamos buscando ponentes y propuestas para próximas actividades de OWASP Madrid.
+
+Si estás trabajando en un tema relacionado con seguridad del software, desarrollo seguro, proyectos OWASP, seguridad ofensiva o defensiva, OT/IIoT, investigación o cualquier otro ámbito que pueda aportar valor técnico a la comunidad, nos gustaría conocerlo.
+
+Puedes proponernos una charla, taller, demostración o actividad práctica contactando con cualquiera de los líderes del capítulo.
+
+No hace falta ser miembro de OWASP ni haber participado anteriormente en nuestros eventos.
+
+## Cómo apoyar a OWASP Madrid
+
+Buscamos también organizaciones que quieran ayudar a hacer posibles las actividades de OWASP Madrid.
+
+Puedes colaborar ofreciendo un espacio para celebrar un evento, apoyo con comida o bebida, material, difusión u otras necesidades de la comunidad.
+
+OWASP Madrid mantiene su independencia y el contenido técnico de las actividades no está condicionado por los colaboradores.
+
+Si tu organización está interesada en apoyar al capítulo, contacta con los líderes.
+
+## Próximas actividades
+
+Las próximas reuniones y actividades de OWASP Madrid se publican en [OWASP Community](https://www.owasp.community/chapters/madrid/meetings).
 
 ## Sobre OWASP
 
