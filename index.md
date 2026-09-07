@@ -9,8 +9,7 @@ meetup-group: owasp-madrid
 
 ## Bienvenida
 
-OWASP Madrid es el capítulo de OWASP en Madrid. Somos una comunidad abierta de profesionales, estudiantes, investigadores y personas interesadas en la ciberseguridad.
-
+OWASP Madrid es el capítulo local de OWASP (Open Worldwide Application Security Project). Somos una comunidad abierta de profesionales, estudiantes, investigadores y personas interesadas en la ciberseguridad.
 Nuestro objetivo es crear un espacio técnico y colaborativo donde compartir conocimiento, aprender y generar actividades útiles para la comunidad de seguridad del software.
 
 ## Qué hacemos
@@ -36,7 +35,7 @@ Puedes proponernos una charla, taller, demostración o actividad práctica conta
 
 Buscamos también organizaciones que quieran ayudar a hacer posibles las actividades de OWASP Madrid.
 
-Puedes colaborar ofreciendo un espacio para celebrar un evento, apoyo con comida o bebida, material, difusión u otras necesidades de la comunidad.
+Puedes colaborar ofreciendo un espacio para celebrar un evento, apoyo con comida, material, difusión u otras necesidades de la comunidad.
 OWASP Madrid mantiene su independencia y el contenido técnico de las actividades no está condicionado por los colaboradores.
 Si tu organización está interesada en apoyar al capítulo, contacta con los líderes.
 
@@ -46,6 +45,19 @@ Las próximas reuniones y actividades de OWASP Madrid se publican en [OWASP Comm
 
 ## Sobre OWASP
 
-OWASP (Open Worldwide Application Security Project) es una fundación sin ánimo de lucro cuyo objetivo es mejorar la seguridad de Internet mediante proyectos abiertos, comunidades y educación.
+OWASP (Open Worldwide Application Security Project) es una comunidad global sin ánimo de lucro dedicada a mejorar la seguridad de Internet y del software.
 
-Más información en [owasp.org](https://owasp.org/).
+Lo que hace especial a OWASP es que gran parte de su conocimiento se construye de forma abierta por profesionales de todo el mundo y está disponible gratuitamente para cualquiera.
+
+Entre sus proyectos más conocidos se encuentran:
+
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/), una referencia sobre los principales riesgos de seguridad en aplicaciones.
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/), guías prácticas sobre autenticación, APIs, criptografía, DevSecOps, Threat Modeling y muchos otros temas.
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/), una aplicación vulnerable creada para aprender y practicar seguridad mediante retos.
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/), una guía abierta para realizar pruebas de seguridad en aplicaciones web.
+- [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/), un estándar para definir y verificar requisitos de seguridad en aplicaciones.
+- [OWASP SAMM](https://owaspsamm.org/), un modelo para evaluar y mejorar la madurez del desarrollo seguro en las organizaciones.
+
+OWASP cuenta además con proyectos especializados en APIs, cadena de suministro, inteligencia artificial y muchos otros ámbitos de la ciberseguridad.
+
+Todos estos recursos son abiertos y cualquier persona puede utilizarlos, aprender de ellos o contribuir a mejorarlos.
