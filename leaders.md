@@ -1,4 +1,4 @@
-### Leaders
+### Líderes
 
 * [Manuel Ballesteros](mailto:manuel.ballesteroscarballo@owasp.org)
 * [José María Corsino Escobar](mailto:jose.escobar@owasp.org)

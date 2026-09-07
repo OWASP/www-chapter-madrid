@@ -23,28 +23,21 @@ Buscamos que las actividades nazcan también de propuestas de la propia comunida
 
 ## Participa
 
-Puedes asistir a nuestras actividades, colaborar como voluntario o participar en proyectos e iniciativas de la comunidad.
+Puedes asistir a nuestras actividades, colaborar como voluntario o participar en proyectos e iniciativas de la comunidad. No es necesario ser miembro de OWASP para participar en las reuniones del capítulo.
 
-No es necesario ser miembro de OWASP para participar en las reuniones del capítulo.
-
-### ¿Quieres dar una charla?
+### Call for Speakers
 
 Estamos buscando ponentes y propuestas para próximas actividades de OWASP Madrid.
 
-Si estás trabajando en un tema relacionado con seguridad del software, desarrollo seguro, proyectos OWASP, seguridad ofensiva o defensiva, OT/IIoT, investigación o cualquier otro ámbito que pueda aportar valor técnico a la comunidad, nos gustaría conocerlo.
-
+Si estás trabajando en un tema relacionado con ciberseguridad, desarrollo seguro, proyectos OWASP, seguridad ofensiva o defensiva, OT/IoT, investigación o cualquier otro ámbito que pueda aportar valor técnico a la comunidad, nos gustaría conocerlo.
 Puedes proponernos una charla, taller, demostración o actividad práctica contactando con cualquiera de los líderes del capítulo.
-
-No hace falta ser miembro de OWASP ni haber participado anteriormente en nuestros eventos.
 
 ## Cómo apoyar a OWASP Madrid
 
 Buscamos también organizaciones que quieran ayudar a hacer posibles las actividades de OWASP Madrid.
 
 Puedes colaborar ofreciendo un espacio para celebrar un evento, apoyo con comida o bebida, material, difusión u otras necesidades de la comunidad.
-
 OWASP Madrid mantiene su independencia y el contenido técnico de las actividades no está condicionado por los colaboradores.
-
 Si tu organización está interesada en apoyar al capítulo, contacta con los líderes.
 
 ## Próximas actividades
