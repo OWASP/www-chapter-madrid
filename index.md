@@ -10,14 +10,13 @@ meetup-group: owasp-madrid
 ## Bienvenida
 
 OWASP Madrid es el capítulo local de OWASP (Open Worldwide Application Security Project). Somos una comunidad abierta de profesionales, estudiantes, investigadores y personas interesadas en la ciberseguridad.
-Nuestro objetivo es crear un espacio técnico y colaborativo donde compartir conocimiento, aprender y generar actividades útiles para la comunidad de seguridad del software.
+Nuestro objetivo es crear un espacio técnico y colaborativo donde compartir conocimiento, aprender y generar actividades útiles.
 
 ## Qué hacemos
 
-Organizamos charlas, talleres, CTFs, demostraciones técnicas y otras actividades prácticas relacionadas con la seguridad del software y los proyectos OWASP.
+Organizamos charlas, talleres, CTFs, demostraciones técnicas y otras actividades prácticas relacionadas con la seguridad de Internet y los proyectos OWASP.
 
-También queremos impulsar contenidos relacionados con desarrollo seguro de software, DevSecOps, Threat Modeling y seguridad en entornos industriales e IoT, así como actividades dirigidas a estudiantes y nuevos profesionales.
-
+También queremos impulsar contenidos relacionados con desarrollo seguro de software, DevSecOps, Threat Modeling y seguridad en entornos industriales e IoT, así como actividades dirigidas a nuevos talentos.
 Buscamos que las actividades nazcan también de propuestas de la propia comunidad y tengan un contenido técnico o práctico útil para los asistentes.
 
 ## Participa
@@ -41,7 +40,7 @@ Si tu organización está interesada en apoyar al capítulo, contacta con los l�
 
 ## Próximas actividades
 
-Las próximas reuniones y actividades de OWASP Madrid se publican en [OWASP Community](https://www.owasp.community/chapters/madrid/meetings).
+Las próximas reuniones y actividades de OWASP Madrid se publican en [OWASP Madrid Community](https://www.owasp.community/chapters/madrid/meetings).
 
 ## Sobre OWASP
 
